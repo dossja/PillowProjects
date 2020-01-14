@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Basics", "Basics\Basics.pyproj", "{D6BC5493-9BCA-4391-B444-F856848CF9A4}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SplitText", "SplitText\SplitText.pyproj", "{D208E43A-6A4D-48D8-8D0E-19BD13CFC780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D6BC5493-9BCA-4391-B444-F856848CF9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D6BC5493-9BCA-4391-B444-F856848CF9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D208E43A-6A4D-48D8-8D0E-19BD13CFC780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D208E43A-6A4D-48D8-8D0E-19BD13CFC780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
